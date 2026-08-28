@@ -18,12 +18,12 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 
 - Currently working on AI and Machine Learning projects
 - Learning Deep Learning and TensorFlow
-- Seeking collaborations in AI research
+- Seeking collaborations mobile app development
 - Skilled in Python, Web Development, ML, and Data Structures
 - Mobile app development with Flutter and Dart
 - Graphic design and UI/UX
 - BSc Computer Science student
-- Based in Kampala, Uganda
+- Based in Jinja, Uganda
 
 ---
 
