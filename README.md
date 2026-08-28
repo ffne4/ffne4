@@ -1,50 +1,60 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align="center">
-  <a href="https://github.com/drakewanswa">
+  <a href="https://github.com/ffne4">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=44&height=90&width=1082&text=Hello!%20I'm%20DRAKE%20WANSWA" alt="Hello! I'm DRAKE WANSWA" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2EA043&center=true&vCenter=true&width=600&lines=BSc.+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2EA043&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Mobile+App+Developer+(Flutter+%26+Dart);Full-Stack+Developer;Graphic+Designer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🔭 &nbsp;I'm currently working on **AI and Machine Learning projects**  
-🌱 &nbsp;I'm currently learning **Deep Learning & TensorFlow**  
-🤔 &nbsp;I'm looking for help with **advanced AI research**  
-💬 &nbsp;Ask me about **Python, Web Development, ML, and Data Structures**  
-🎓 &nbsp;Pursuing **BSc in Computer Science**  
-📍 &nbsp;Based in **Kampala, Uganda**
+I am a Computer Science student with a strong passion for Artificial Intelligence, Machine Learning, and software development. I enjoy building innovative solutions that solve real-world problems, from intelligent systems to scalable web applications. Currently exploring deep learning architectures and their applications in computer vision and natural language processing. I believe in writing clean, efficient code and continuously expanding my knowledge in emerging technologies.
+
+- Currently working on AI and Machine Learning projects
+- Learning Deep Learning and TensorFlow
+- Seeking collaborations in AI research
+- Skilled in Python, Web Development, ML, and Data Structures
+- Mobile app development with Flutter and Dart
+- Graphic design and UI/UX
+- BSc Computer Science student
+- Based in Kampala, Uganda
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-#### 💻 Programming Languages:
+#### Programming Languages:
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=c,dart" width="90" />
+<img src="https://skillicons.dev/icons?i=dart" width="50" alt="Dart" />
 
-#### 🌐 Frontend Development:
+#### Mobile App Development:
+<img src="https://skillicons.dev/icons?i=flutter" width="60" alt="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ios/ios-original.svg" width="50" alt="iOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+
+#### Frontend Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" />
 
-#### ⚙️ Backend Development:
+#### Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,kafka" width="400" />
 
-#### 🤖 AI & Machine Learning:
+#### AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
@@ -55,52 +65,58 @@
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
-#### 🗄️ Databases:
+#### Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,firebase" width="400" />
 
-#### 🔧 Tools & Technologies:
+#### Graphic Design & Tools:
+<img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg" width="50" alt="Photoshop" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg" width="50" alt="Illustrator" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=blender" width="50" alt="Blender" />
+
+#### Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
-<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
+<img src="https://skillicons.dev/icons?i=postman,linux&theme=dark" width="100" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=drakewanswa&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=drakewanswa&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ffne4&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ffne4&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drakewanswa&theme=tokyonight&hide_border=true&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drakewanswa&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffne4&theme=tokyonight&hide_border=true&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drakewanswa&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ffne4&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ffne4&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/drake-wanswa/" target="_blank">
@@ -109,20 +125,20 @@
   <a href="https://instagram.com/drakewanswa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:drake.wanswa@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:drakemike578@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/drakewanswa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/drakewanswa" target="_blank">
+  <a href="https://github.com/ffne4" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -130,14 +146,14 @@
 
 ---
 
-### 📍 Visitor Count
+### Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drakewanswa&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ffne4&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/drakewanswa">drakewanswa</a></i>
+  <i>From <a href="https://github.com/ffne4">ffne4</a></i>
 </p>
