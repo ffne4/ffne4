@@ -42,7 +42,7 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 #### Mobile App Development:
 <img src="https://skillicons.dev/icons?i=flutter" width="60" alt="Flutter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="Android" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ios/ios-original.svg" width="50" alt="iOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" alt="iOS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
 
 #### Frontend Development:
